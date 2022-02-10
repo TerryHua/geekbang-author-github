@@ -42,14 +42,18 @@
 | 付健     | [《Netty 源码剖析与实战》](https://gitee.com/geektime-geekbang/geek_netty) |                                           |
 | 蔡超     | [《Go 语言从入门到实战》](https://gitee.com/geektime-geekbang/go_learning) |                                           |
 | 叶剑峰   | [《手把手带你写一个 Web 框架》](https://github.com/gohade/coredemo/tree/geekbang/03) | [github地址](https://github.com/gohade)   |
+| 彭东     | [《操作系统实战45讲》](https://gitee.com/lmos/cosmos)        | [gitee地址](https://gitee.com/lmos)       |
+| 杨波     | [《分布式系统案例课》](https://gitee.com/geektime-geekbang/geektime-distributed) |                                           |
+| 张汉东   | [《张汉东的Rust实战课》](https://gitee.com/geektime-geekbang/geektime-Rust) |                                           |
+| 陈天     | [《陈天.Rust编程第一课》](https://github.com/tyrchen/geektime-rust) | [github地址](https://github.com/tyrchen)  |
 
 
 
 # AI/大数据
 
-| 作者名称 | 课程名称 | 作者github地址 |
-| -------- | -------- | -------------- |
-|          |          |                |
+| 作者名称 | 课程名称                                                     | 作者github地址 |
+| -------- | ------------------------------------------------------------ | -------------- |
+| 彭靖田   | [《TensorFlow快速入门与实战》](https://gitee.com/geektime-geekbang/tensorflow-101/tree/master/beginners) |                |
 
 
 
