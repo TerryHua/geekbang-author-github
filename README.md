@@ -41,6 +41,7 @@
 | TonyBai  | [《Tony Bai · Go 语言第一课》](https://github.com/bigwhite/publication/tree/master/column/timegeek/go-first-course) | [github地址](https://github.com/bigwhite) |
 | 付健     | [《Netty 源码剖析与实战》](https://gitee.com/geektime-geekbang/geek_netty) |                                           |
 | 蔡超     | [《Go 语言从入门到实战》](https://gitee.com/geektime-geekbang/go_learning) |                                           |
+| 叶剑峰   | [《手把手带你写一个 Web 框架》](https://github.com/gohade/coredemo/tree/geekbang/03) | [github地址](https://github.com/gohade)   |
 
 
 
@@ -94,7 +95,7 @@
 
 # 个人成长
 
-| 作者名称 | 课程名称 | 作者github地址 |
-| -------- | -------- | -------------- |
-|          |          |                |
+| 作者名称 | 课程名称                                                     | 作者github地址                          |
+| -------- | ------------------------------------------------------------ | --------------------------------------- |
+| 王喆     | [《程序员的个人财富课》](https://github.com/wzhe06/SmartInvest)<br />[《深度学习推荐系统实战》](https://github.com/wzhe06/SparrowRecSys) | [github地址](https://github.com/wzhe06) |
 
