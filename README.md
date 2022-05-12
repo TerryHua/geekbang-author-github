@@ -30,7 +30,8 @@
 | 王争     | [《数据结构与算法之美》](https://github.com/wangzheng0822/algo)<br />《设计模式之美》 | [github地址](https://github.com/wangzheng0822) |
 | 彭东     | [《操作系统实战45讲》](https://gitee.com/lmos/cosmos)   | [gitee地址](https://gitee.com/lmos)     |
 | 黄清昊   | [《业务开发算法 50 讲》](https://github.com/wfnuser/Algorithms/)   |   [github地址](https://github.com/wfnuser)    |
-| 宫文学   | [《手把手带你写一门计算机语言》](https://gitee.com/richard-gong/craft-a-language)   |   [github地址](https://gitee.com/richard-gong)    |
+| 尹会生   | [《Python 自动化办公实战课》](https://github.com/wilsonyin123/python_productivity)   |   [github地址](https://github.com/wilsonyin123)    |
+
 
  
 
@@ -49,6 +50,7 @@
 | 张汉东   | [《张汉东的Rust实战课》](https://gitee.com/geektime-geekbang/geektime-Rust) |                                                |
 | 陈天     | [《陈天.Rust编程第一课》](https://github.com/tyrchen/geektime-rust) | [github地址](https://github.com/tyrchen)       |
 | 朱晔     | [《Java业务开发常见错误100例》](https://github.com/JosephZhu1983/java-common-mistakes) | [github地址](https://github.com/JosephZhu1983) |
+| 吴咏炜   | [《现代 C++ 编程实战》](https://github.com/adah1972/geek_time_cpp) | [github地址](https://github.com/adah1972) |
 
 
 
