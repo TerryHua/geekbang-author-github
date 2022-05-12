@@ -28,8 +28,9 @@
 | 作者名称 | 课程名称                                                     | 作者github地址                                 |
 | -------- | ------------------------------------------------------------ | ---------------------------------------------- |
 | 王争     | [《数据结构与算法之美》](https://github.com/wangzheng0822/algo)<br />《设计模式之美》 | [github地址](https://github.com/wangzheng0822) |
-|     彭东     |  [《操作系统实战45讲》](https://gitee.com/lmos/cosmos)   | [gitee地址](https://gitee.com/lmos)                                               |
-|          |                                                              |                                                |
+| 彭东     | [《操作系统实战45讲》](https://gitee.com/lmos/cosmos)   | [gitee地址](https://gitee.com/lmos)     |
+| 黄清昊   | [《业务开发算法 50 讲》](https://github.com/wfnuser/Algorithms/)   |   [github地址](https://github.com/wfnuser)    |
+| 宫文学   | [《手把手带你写一门计算机语言》](https://gitee.com/richard-gong/craft-a-language)   |   [github地址](https://gitee.com/richard-gong)    |
 
  
 
